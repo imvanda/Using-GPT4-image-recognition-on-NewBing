@@ -21,7 +21,7 @@ _w["_sydConvConfig"].enableVisualSearch = true;
 
 ![02](02.png)
 
-### 此时NewBIng对话框将出现传图功能，你可以上传网络/本地图像给NewBing，并给她下达命令。
+### 此时NewBing对话框将出现传图功能，你可以上传网络/本地图像给NewBing，并给她下达命令。
 
 ![06](06.png)
 
@@ -42,3 +42,6 @@ html文件在项目文件夹中可供查看，以下为最终界面预览：
 ![04](04.png)
 
 可以看到，NewBing基本实现了我们的需求，我们也可以继续提出需求，改到满意为止。
+
+### 另外，这里推荐一个在Chrome上解锁NewBing的小扩展，让你不再被Edge绑架😃
+[Chrome Unlock New Bing AI](https://chrome.google.com/webstore/detail/chrome-unlock-new-bing-ai/nglhdhdfndbadmaiieikpefenkbgpdbf)
