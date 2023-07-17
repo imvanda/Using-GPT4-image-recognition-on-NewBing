@@ -1,4 +1,4 @@
-# Using-GPT4-image-recognition-on-NewBing
+感谢# Using-GPT4-image-recognition-on-NewBing
 
 ## 如题，这是一个解锁NewBing的GPT4识图能力的简单教程。
 甚至可以实现类似GPT-4发布会上，发送手写草稿图片，让ai生成网站代码的“魔法”功能。尽管可能没有100%实现预期效果，但我觉得这已经很不错了，充满了可玩性等待开发。
@@ -44,6 +44,8 @@ html文件在项目文件夹中可供查看，以下为最终界面预览：
 ![04](04.png)
 
 可以看到，NewBing基本实现了我们的需求，我们也可以继续提出需求，改到满意为止。
+
+### 🎉感谢@Tianli的付出，他编写了一个更方便好用的油猴脚本：[Bing AI 图像拓展](https://greasyfork.org/zh-CN/scripts/471001-bing-ai-%E5%9B%BE%E5%83%8F%E6%8B%93%E5%B1%95) 安装后，你不再需要每次手动调试。
 
 ### 另外，这里推荐一个在Chrome上解锁NewBing的小扩展，让你不再被Edge绑架😃
 [Chrome Unlock New Bing AI](https://chrome.google.com/webstore/detail/chrome-unlock-new-bing-ai/nglhdhdfndbadmaiieikpefenkbgpdbf)
